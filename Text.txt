@@ -1,0 +1,38 @@
+#Correct Input
+def A(AB_cD, b, str):
+	a = -5
+	c = 6.4
+	b = "Blaablaa"
+	str = """#This is not
+			 a comment """
+	while ( c     <         1):
+		while False:
+			c = c+a
+			if(a <=   1077):
+				""This is an error""
+				return True
+	while True:
+		b = b*c
+	d = d + (b+((c    +         2)* a))
+	if ( a == b):
+		str2 = '$Pl$ag'
+
+return b
+
+
+def func():
+	'Compiler'
+	Evaluation
+	Going 
+	On
+	
+
+
+This
+IsAnError
+Variable= 'String not closed so this will be an error'
+
+
+'''^ %Multi-Line
+String Dete%cted '''
+
